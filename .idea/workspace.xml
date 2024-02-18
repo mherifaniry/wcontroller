@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24463a42-51cf-449d-ad95-f680b85cac23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mherifaniry/wcontroller/CategorieController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mherifaniry/wcontroller/PersonneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mherifaniry/wcontroller/TransactionsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mherifaniry/wcontroller/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/RapportsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/rapports.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portofolio/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portofolio/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portofolio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portofolio/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/PrincipalesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/PrincipalesView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/principale.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/principale.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +28,16 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../demo" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,24 +45,40 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bjMgveQR9dw9RLRTFSrA3wX1fU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/mherifaniry/IdeaProjects/wcontroller/src/main/java/com/mherifaniry/wcontroller"
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/annie/IdeaProjects/demo1/pom.xml",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/mherifaniry/wcontroller" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-semeru-11.0.22-f644763e9732-83f6228e" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
