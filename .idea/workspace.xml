@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24463a42-51cf-449d-ad95-f680b85cac23" name="Changes" comment="I have created a new IHM called principale.fxml to set the Main IHM more dynamic">
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/BudgetsView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/budgets.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/HelloApplication.java" afterDir="false" />
+    <list default="true" id="24463a42-51cf-449d-ad95-f680b85cac23" name="Changes" comment="I have created a new IHM called principale.fxml to set the Main IHM more dynamic (version 2)">
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/ParametresViews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/PlanningsViews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/TransactionsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/parametres.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/plannings.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/transactions.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portofolio/src/main/java/mherifaniry/entity/Transactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/src/main/java/mherifaniry/entity/Transactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/BudgetsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/BudgetsView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/PrincipalesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/PrincipalesView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/RapportsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/RapportsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/budgets.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/budgets.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/principale.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/principale.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/rapports.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/rapports.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -27,11 +34,13 @@
       <list>
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../demo" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,6 +66,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/annie/IdeaProjects/demo/src/main/java/com/mherifaniry/view",
     "last_opened_file_path": "C:/Users/annie/IdeaProjects/demo1/pom.xml",
     "settings.editor.selected.configurable": "preferences.JavaFX"
   }
@@ -90,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708258314363</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="I have created a new IHM called principale.fxml to set the Main IHM more dynamic (version 2)">
+      <option name="closed" value="true" />
+      <created>1708328753797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708328753797</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I have created a new IHM called principale.fxml to set the Main IHM more dynamic" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have created a new IHM called principale.fxml to set the Main IHM more dynamic" />
+    <MESSAGE value="I have created a new IHM called principale.fxml to set the Main IHM more dynamic (version 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have created a new IHM called principale.fxml to set the Main IHM more dynamic (version 2)" />
   </component>
 </project>
