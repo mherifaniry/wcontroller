@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24463a42-51cf-449d-ad95-f680b85cac23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/RapportsView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/rapports.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portofolio/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portofolio/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portofolio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portofolio/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portofolio/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="24463a42-51cf-449d-ad95-f680b85cac23" name="Changes" comment="I have created a new IHM called principale.fxml to set the Main IHM more dynamic">
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/BudgetsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/budgets.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/HelloApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/PrincipalesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/PrincipalesView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/RapportsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/mherifaniry/view/RapportsView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/principale.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/principale.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/rapports.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/mherifaniry/view/rapports.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,7 +55,6 @@
     "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/annie/IdeaProjects/demo1/pom.xml",
@@ -89,6 +82,15 @@
       <option name="presentableId" value="Default" />
       <updated>1706724153687</updated>
     </task>
+    <task id="LOCAL-00001" summary="I have created a new IHM called principale.fxml to set the Main IHM more dynamic">
+      <option name="closed" value="true" />
+      <created>1708258314363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708258314363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I have created a new IHM called principale.fxml to set the Main IHM more dynamic" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have created a new IHM called principale.fxml to set the Main IHM more dynamic" />
   </component>
 </project>
